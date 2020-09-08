@@ -8,7 +8,7 @@
     "develop": "ag test/asyncapi.yaml ./ -o test/output --force-write --watch-template"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
     "@asyncapi/generator-filters": "^1.0.0"
   },
